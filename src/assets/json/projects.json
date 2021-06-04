@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "name": "Pokedex",
+    "student_id": 3,
+    "description": "Created a web application to showcase all the Pokemon using the PokeAPI to be displayed with search facility filtering and pokemon type as a category. The selected pokemon displays a page with all the information about it being the games featured, moves list, statistics and general information.",
+    "skill_ids": [
+      26,
+      16,
+      50,
+      29
+    ],
+    "image_path": [
+      "/projects/theon/pokedex/1.png"
+    ],
+    "external_links": {
+    },
+    "video_asset": "/projects/theon/pokedex/video1.mp4",
+    "photo_assets": [
+      "/projects/theon/pokedex/1.png",
+      "/projects/theon/pokedex/2.png",
+      "/projects/theon/pokedex/3.png",
+      "/projects/theon/pokedex/4.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Filmlist",
+    "student_id": 5,
+    "description": "Filmlist is a web app for discovering new films based on what you have already seen and enjoyed. A watchlist can be created to track films you’d to see; once watched, films can be ‘liked’ and rated out of 5 stars.",
+    "skill_ids": [
+      48,
+      38,
+      74,
+      75,
+      76
+    ],
+    "image_path": [
+      "/projects/samb/filmlist/1.png"
+    ],
+    "external_links": {
+      "project_site": "http://filmlist.sambrock.com/",
+      "github": "https://github.com/SamBrock/filmlist"
+    },
+    "video_asset": "/projects/samb/filmlist/video1.mp4",
+    "photo_assets": [
+      "/projects/samb/filmlist/1.png",
+      "/projects/samb/filmlist/2.png",
+      "/projects/samb/filmlist/3.png"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Pace",
+    "student_id": 5,
+    "description": "Pace is an app which makes getting involved in the beautiful game fast and simple. It is created for players of all levels to find and organise games of small sided football and to track their statistics.",
+    "skill_ids": [
+      27
+    ],
+    "image_path": [
+      "/projects/samb/pace/1.png"
+    ],
+    "external_links": {
+      "project_site": "https://sambrock.com/sketchbooks/pace.pdf"
+    },
+    "video_asset": "/projects/samb/pace/video1.mp4",
+    "photo_assets": [
+      "/projects/samb/pace/1.png",
+      "/projects/samb/pace/2.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Queensgate Airlines",
+    "student_id": 8,
+    "description": "A website that shows numerous flights from one destination to another. Each flight has its own details page that shows the date and time of departure and arrival, also shows who the pilot and flight attendants are. Depending on the role of the user, you're able to add a new flight to the flight list.",
+    "skill_ids": [
+      26,
+      16,
+      44
+    ],
+    "image_path": [
+      "/projects/charlie/queensgate-airlines/2.png"
+    ],
+    "external_links": {
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/charlie/queensgate-airlines/1.png",
+      "/projects/charlie/queensgate-airlines/2.png",
+      "/projects/charlie/queensgate-airlines/3.png",
+      "/projects/charlie/queensgate-airlines/4.png",
+      "/projects/charlie/queensgate-airlines/5.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Spotify Insights",
+    "student_id": 9,
+    "description": "App using Spotify API to show a user's stats and view artists and songs.",
+    "skill_ids": [
+      66
+    ],
+    "image_path": [
+      "/projects/will/spotify-insights/1.png"
+    ],
+    "external_links": {
+    },
+    "video_asset": "/projects/will/spotify-insights/video1.mp4",
+    "photo_assets": [
+      "/projects/will/spotify-insights/1.png"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jolly Holiday Cash",
+    "student_id": 10,
+    "description": "A currency exchange website that allows you to convert currencies and have an insight in fluctuations in rates. This website has been developed so it is a downloadable PWA.",
+    "skill_ids": [
+      48,
+      38,
+      9,
+      24
+    ],
+    "image_path": [
+      "/projects/bradley/jolly-holiday-cash/4.png"
+    ],
+    "external_links": {
+      "project_site": "https://jolly-holiday-cash.dev.bradley-king.com/",
+      "github": "https://github.com/bradleyking-dev/jolly-holiday-cash"
+    },
+    "video_asset": "/projects/bradley/jolly-holiday-cash/video2.mp4",
+    "photo_assets": [
+      "/projects/bradley/jolly-holiday-cash/1.png",
+      "/projects/bradley/jolly-holiday-cash/2.png",
+      "/projects/bradley/jolly-holiday-cash/3.png",
+      "/projects/bradley/jolly-holiday-cash/4.png",
+      "/projects/bradley/jolly-holiday-cash/5.png",
+      "/projects/bradley/jolly-holiday-cash/6.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Cee's Big Day",
+    "student_id": 11,
+    "description": "An interactive and animated story to teach children the importance of treating others with kindness and to not have prejudice. \nAll assets were created in Adobe Illustrator and animated using keyframes in Adobe After Effects. The animations were exported using the Lottie bodymovin plugin and the website was composited using the Webflow platform.",
+    "skill_ids": [
+      27,
+      5,
+      77,
+      16
+    ],
+    "image_path": [
+      "/projects/melissa/cees/0.png"
+    ],
+    "external_links": {
+      "project_site": "https://cees-big-day.webflow.io/"
+    },
+    "video_asset": "/projects/melissa/cees/video1.mp4",
+    "photo_assets": [
+      "/projects/melissa/cees/0.png",
+      "/projects/melissa/cees/1.gif",
+      "/projects/melissa/cees/2.gif",
+      "/projects/melissa/cees/3.gif",
+      "/projects/melissa/cees/4.gif",
+      "/projects/melissa/cees/5.png"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Home Chef",
+    "student_id": 13,
+    "description": "A Progressive Web Application that lets you book a chef to make and serve you dinner at yours",
+    "skill_ids": [
+      26,
+      50,
+      29,
+      24,
+      38
+    ],
+    "image_path": [
+      "/projects/clayton/home-chef/1.jpg"
+    ],
+    "external_links": {
+      "project_site": "https://clymat.github.io/Home-Chef-App/"
+    },
+    "video_asset": "/projects/clayton/home-chef/video1.mov",
+    "photo_assets": [
+      "/projects/clayton/home-chef/1.jpg",
+      "/projects/clayton/home-chef/2.jpg",
+      "/projects/clayton/home-chef/3.jpg",
+      "/projects/clayton/home-chef/4.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dine@home",
+    "student_id": 13,
+    "description": "A UX project prototyping an app that gives users the ability to choose a menu and chef in their location to make them a classy meal at home.",
+    "skill_ids": [
+      71,
+      43,
+      27
+    ],
+    "image_path": [
+      "/projects/clayton/dineathome/1.png"
+    ],
+    "external_links": {
+      "project_site": "https://xd.adobe.com/view/f4e06f44-da56-4a89-9bd9-5c94bd2d3f3a-a1b3/?fullscreen"
+    },
+    "video_asset": "/projects/clayton/dineathome/video1.mp4",
+    "photo_assets": [
+      "/projects/clayton/dineathome/1.png",
+      "/projects/clayton/dineathome/2.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Second Childhood",
+    "student_id": 18,
+    "description": "A Retro app prototype that includes activities that children did growing up in the 80s and 90s.",
+    "skill_ids": [
+      43,
+      27
+    ],
+    "image_path": [
+      "/projects/jas/second-childhood/1.png"
+    ],
+    "external_links": {
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/jas/second-childhood/1.png"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "COLOUR UNIT",
+    "student_id": 2,
+    "description": "Prototyped an application that enables users to choose their perfect furniture colour, by navigating through the different options available to suit their needs. The furnitures have been allocated in a range of room layouts to give a pleasing visual experience. This has been developed through the use of Adobe XD.",
+    "skill_ids": [
+      27,
+      43,
+      71
+    ],
+    "image_path": [
+      "/projects/thahir/colour-unit/1.png"
+    ],
+    "external_links": {
+      "project_site": "https://xd.adobe.com/embed/6690a351-2fcd-42e2-93ed-1ecd20869884-33c3/"
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/thahir/colour-unit/1.png",
+      "/projects/thahir/colour-unit/2.png",
+      "/projects/thahir/colour-unit/3.png",
+      "/projects/thahir/colour-unit/4.png",
+      "/projects/thahir/colour-unit/5.png",
+      "/projects/thahir/colour-unit/6.png",
+      "/projects/thahir/colour-unit/7.png",
+      "/projects/thahir/colour-unit/8.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "MyPackages",
+    "student_id": 10,
+    "description": "A simple to use private package manager for developers utilising github, composer, laravel, php, mysql, redis, and centos.",
+    "skill_ids": [
+      44,
+      31,
+      78,
+      49,
+      37
+    ],
+    "image_path": [
+      "/projects/bradley/mypackages/1.png"
+    ],
+    "external_links": {
+      "project_site": "https://packages.bradley-king.com/",
+      "github": "https://github.com/bradleyking-dev/mypackages"
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/bradley/mypackages/1.png",
+      "/projects/bradley/mypackages/2.png",
+      "/projects/bradley/mypackages/3.png",
+      "/projects/bradley/mypackages/4.png",
+      "/projects/bradley/mypackages/5.png",
+      "/projects/bradley/mypackages/6.png",
+      "/projects/bradley/mypackages/7.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "MyTask",
+    "student_id": 10,
+    "description": "This is a product of my final year project. I created a task management system utilising open source resources, building with a modular approach achieved by the repository design pattern and the use of open source packages.",
+    "skill_ids": [
+      44,
+      31,
+      48,
+      37
+    ],
+    "image_path": [
+      "/projects/bradley/mytask/1.png"
+    ],
+    "external_links": {
+      "project_site": "https://mytask.ai/",
+      "github": "https://github.com/bradleyking-dev/mytask.ai"
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/bradley/mytask/1.png",
+      "/projects/bradley/mytask/2.png",
+      "/projects/bradley/mytask/3.png",
+      "/projects/bradley/mytask/4.png",
+      "/projects/bradley/mytask/5.png",
+      "/projects/bradley/mytask/6.png",
+      "/projects/bradley/mytask/7.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Q&R Recruitment",
+    "student_id": 13,
+    "description": "A Web Application users can register to search and apply for jobs, employees can also register to search for candidates and list jobs.",
+    "skill_ids": [
+      26,
+      16,
+      44,
+      29,
+      24
+    ],
+    "image_path": [
+      "/projects/clayton/recruitment/1.jpg"
+    ],
+    "external_links": {
+      "project_site": "https://qrrecuitment.co.uk"
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/clayton/recruitment/1.jpg",
+      "/projects/clayton/recruitment/2.jpg",
+      "/projects/clayton/recruitment/3.jpg",
+      "/projects/clayton/recruitment/4.jpg",
+      "/projects/clayton/recruitment/5.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "AA UX Design Improvement",
+    "student_id": 13,
+    "description": "User experience improvements to the AA app. Designed a user interface for third party contracted breakdown recovery companies. Using this interface, they can send their location and track member locations as well. This made it possible for users to track their help and keep them calm. There is also a timer wheel that shows they are being attended to in what time frame.",
+    "skill_ids": [
+      71,
+      43,
+      27
+    ],
+    "image_path": [
+      "/projects/clayton/aa-ux-improvement/1.jpg"
+    ],
+    "external_links": {
+      "project_site": "https://xd.adobe.com/view/abe4dce0-088f-4a2f-a2c6-1858cb94b434-feb7/"
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/clayton/aa-ux-improvement/1.jpg",
+      "/projects/clayton/aa-ux-improvement/2.png",
+      "/projects/clayton/aa-ux-improvement/3.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Vita",
+    "student_id": 14,
+    "description": "",
+    "skill_ids": [
+      71
+    ],
+    "image_path": [
+      "/projects/tom/vita/1.png"
+    ],
+    "external_links": {
+    },
+    "video_asset": "/projects/tom/vita/video.mp4",
+    "photo_assets": [
+      "/projects/tom/vita/1.png",
+      "/projects/tom/vita/2.png",
+      "/projects/tom/vita/3.png",
+      "/projects/tom/vita/4.png"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Warden",
+    "student_id": 14,
+    "description": "",
+    "skill_ids": [
+      71
+    ],
+    "image_path": [
+      "/projects/tom/warden/1.png"
+    ],
+    "external_links": {
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/tom/warden/1.png",
+      "/projects/tom/warden/2.png"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Student Companion",
+    "student_id": 13,
+    "description": "A university student time management application. Using this app, students can divide their goals into short and long-term. They can add tasks, exams, and assignments for each added module, receive notifications when they are due according to their set  time attitudes. ",
+    "skill_ids": [
+      71,
+      43,
+      27
+    ],
+    "image_path": [
+      "/projects/clayton/student-companion/1.jpg"
+    ],
+    "external_links": {
+      "project_site": "https://xd.adobe.com/view/83d7ee62-95cc-46e7-9895-81724918fa43-d684/?fullscreen"
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/clayton/student-companion/1.jpg",
+      "/projects/clayton/student-companion/2.jpg",
+      "/projects/clayton/student-companion/3.jpg",
+      "/projects/clayton/student-companion/4.jpg",
+      "/projects/clayton/student-companion/5.jpg"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Top Music",
+    "student_id": 9,
+    "description": "View your top artists and songs on Spotify for various time periods.",
+    "skill_ids": [
+      66
+    ],
+    "image_path": [
+      "/projects/will/top-music/1.png"
+    ],
+    "external_links": {
+      "project_site": "https://topmusic.rocks/"
+    },
+    "video_asset": null,
+    "photo_assets": [
+      "/projects/will/top-music/1.png",
+      "/projects/will/top-music/2.png"
+    ]
+  }
+]

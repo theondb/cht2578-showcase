@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "name": "Bogdan Aftodor",
+    "slug": "bogdan-aftodor",
+    "desiredJob": "Cyber Security Analyst",
+    "degree": "BSc(Hons) Web Programming with Cyber Security ",
+    "description": "Bogdan is a final year student at the University of Huddersfield with a passion in Cyber Security. Having good analytical skills and a big interest in digital forensics. Always looking to push his boundaries and tackle new challenges. Having previous work experience in the financial industry and working alongside backend developers. Looking forward to completing his course and embark in a new chapter of his life.",
+    "quote": "Hackers are like Jedi, some are on the good side or the dark side.",
+    "quote_from": "B",
+    "image_path": "/img/students/bogdan.png",
+    "links": {
+      "website": "https://www.bogdan-aftodor.co.uk",
+      "email": "bogdan.aftodor26@gmail.com"
+    },
+    "skill_ids": [
+      44,
+      37,
+      31,
+      29,
+      26,
+      16,
+      70,
+      6,
+      13,
+      57,
+      41,
+      18
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Thahir Akbar",
+    "slug": "thahir-akbar",
+    "desiredJob": "UX/UI Designer",
+    "degree": "BSc(Hons) Web Design",
+    "description": "Thahir is currently a final year Web Design student who is striving to pursue a career in UI/ UX Graphic Design. He has developed his skills whilst studying his degree, and working as a project support assistant at the University of Huddersfield. This job role involved participating in a team, promoting the development of the new MyHud Portal through marketing, as well as developing an infographic poster which involved portraying the statistics of the use of surveys, market reach and important data. This enabled Thahir to create video tutorials for students to enhance their user experience. Thahir's future plans are to transfer his current skills within the digital industry and to venture on a new career to continue to develop on his skills.",
+    "quote": "Graduation is not the end, it's the beginning.",
+    "quote_from": "Orrin Hatch",
+    "image_path": "/img/students/thahir.png",
+    "links": {
+      "instagram": "https://www.instagram.com/akbarcreations/",
+      "email": "thahir_123@hotmail.co.uk"
+    },
+    "skill_ids": [
+      3,
+      35,
+      26,
+      16,
+      44,
+      29,
+      30,
+      37,
+      17,
+      12,
+      70,
+      68,
+      65,
+      42
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Theon Benjamin",
+    "slug": "theon-benjamin",
+    "desiredJob": "Full-Stack Developer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Theon is a final year Web Technologies student that has been gaining lots of knowledge and skills during a time spent at the university. Has undertaken the placement year at Servelec as a full-stack developer. After university the plan is to implement the developed knowledge and skills into practice by working in the industry.",
+    "quote": "Just keep swimming",
+    "quote_from": "Finding Nemo",
+    "image_path": "/img/students/theon.png",
+    "links": {
+      "website": "https://selene.hud.ac.uk/u1752213/portfolio/",
+      "linkedin": "https://www.linkedin.com/in/theon-benjamin-08430213b/",
+      "email": "theondbenjamin@gmail.com"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      44,
+      11,
+      37,
+      66,
+      70,
+      40,
+      21,
+      22,
+      71,
+      43,
+      28
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Joshua Bolland",
+    "slug": "joshua-bolland",
+    "desiredJob": "UX/UI Designer",
+    "degree": "BSc(Hons) Web Design",
+    "description": "Josh is a UX/UI designer who as experience in user support roles as well as technical roles. Whether he goes into the development industry or support industry he is excited about having a choice as to where his future lies.",
+    "quote": "All I can do is be me, whoever that is.",
+    "quote_from": "Bob Dylan",
+    "image_path": "/img/students/josh.png",
+    "links": {
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      44,
+      9,
+      20,
+      65,
+      42,
+      53,
+      3,
+      8,
+      56
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sam Brocklehurst",
+    "slug": "sam-brocklehurst",
+    "desiredJob": "Full Stack Developer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Sam is a full-stack developer using the latest front-end and back-end web technologies to build fast, powerful, and accessible web apps. As a Web Assistant at the University of Huddersfield’s School of Computing and Engineering, he was able to grow his skills through a variety of web development opportunities, working on and building both student and external facing websites.  ",
+    "quote": "Simplicity is the ultimate sophistication.",
+    "quote_from": "Leonardo da Vinci",
+    "image_path": "/img/students/samb.png",
+    "links": {
+      "website": "https://sambrock.com/",
+      "linkedin": "https://www.linkedin.com/in/sam-brocklehurst/",
+      "email": "hi@sambrock.com"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      44,
+      48,
+      38,
+      31,
+      43,
+      27,
+      28
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jonathan Gedlek",
+    "slug": "jonathan-gedlek",
+    "desiredJob": "Full Stack Developer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Jonathan is a final year Web Technology student priding himself on his drive to absorb as much knowledge as he can during his time at the university. He undertook two placements in his third year of studies, starting at Buckingham Palace as a Web Developer and Website Manager. He then went on to aid in development of the new MyHud Online Portal with the university, developing web applications to run on the website such as the university map. Jonathan's future plans is to continue developing his Full Stack skills through freelancing work, aiding businesses in the local area achieve a modern online presence. ",
+    "quote": "It's in responsibility that most people find the meaning that sustains them through life. It's not in happiness. It's not in impulsive pleasure.",
+    "quote_from": "Jordan Peterson",
+    "image_path": "/img/students/jonathan.png",
+    "links": {},
+    "skill_ids": [
+      26,
+      16,
+      9,
+      58,
+      29,
+      44,
+      37,
+      31,
+      70,
+      24,
+      3,
+      21,
+      22,
+      38,
+      39,
+      35,
+      42
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Arin Gokce",
+    "slug": "arin-gokce",
+    "desiredJob": "Front-end Developer",
+    "degree": "BSc(Hons) Computing & Engineering",
+    "description": "Arin is a final year Computing & Engineering student that has a few years experience within the industry. Whilst studying his degree, he has simultaneously worked in the web developer sector with various companies. Next he wants to transfer his skills onto the working environment then later finish his masters degree in computing & engineering.",
+    "quote": "To succeed in life, you need two things: ignorance and confidence",
+    "quote_from": "Mark Twain",
+    "image_path": "/img/students/arin.png",
+    "links": {
+      "website": "https://aringokce2.myportfolio.com/",
+      "linkedin": "https://www.linkedin.com/in/arin-gokce-07a482183/",
+      "email": "aringokce2@gmail.com"
+    },
+    "skill_ids": [
+      26,
+      16,
+      43,
+      27,
+      70,
+      60,
+      35,
+      47,
+      5
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Charlie Grimmitt",
+    "slug": "charlie-grimmitt",
+    "desiredJob": "Front-end Developer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Charlie is a final year Web Technologies student that has a passion for learning new experiences and front-end development, who currently wants to expand her knowledge in JavaScript frameworks. She has spent the last 4 years freelancing for a book publishing company, developing websites using WordPress for new book releases, but now wants to start her journey into becoming a front-end developer.",
+    "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+    "quote_from": "Thomas A. Edison",
+    "image_path": "/img/students/charlieg.png",
+    "links": {
+      "website": "https://charlies.dev",
+      "linkedin": "https://www.linkedin.com/in/charliesdev/",
+      "email": "info@charlies.dev"
+    },
+    "skill_ids": [
+      26,
+      16,
+      50,
+      9,
+      29,
+      30,
+      44,
+      31,
+      70,
+      71,
+      43,
+      27
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Will Kelsey",
+    "slug": "will-kelsey",
+    "desiredJob": "Software Developer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Will is a software developer and a minimalist.",
+    "quote": "Everything is cool, man",
+    "quote_from": "Seaway",
+    "image_path": "/img/students/willk.png",
+    "links": {
+      "website": "https://willkelsey.dev/",
+      "linkedin": "https://www.linkedin.com/in/will-kelsey/",
+      "email": "will@willkelsey.dev"
+    },
+    "skill_ids": [
+      31,
+      66
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Bradley King",
+    "slug": "bradley-king",
+    "desiredJob": "Backend Developer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Bradley is a final year Web Technology student that has a few years experience within the industry whilst studying. He has worked in IT and web roles within the financial sector and in a web agency. He is predominantly a backend developer that likes building new systems and likes learning something new. Currently interested in No-SQL DB systems and container environments. Next he wants to continue his career onto a masters degree in computing.",
+    "quote": "Life is like a box of chocolates. You never know what you're gonna get.",
+    "quote_from": "Forrest Gump",
+    "image_path": "/img/students/bradley.png",
+    "links": {
+      "website": "https://www.bradley-king.com/",
+      "facebook": "https://www.facebook.com/bradley.king.web",
+      "linkedin": "https://www.linkedin.com/in/bradley-king-web-development/",
+      "instagram": "https://www.instagram.com/bradking.codes/",
+      "email": "contact@bradley-king.com"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      21,
+      58,
+      38,
+      39,
+      66,
+      48,
+      30,
+      44,
+      37,
+      31,
+      73,
+      70,
+      49,
+      69,
+      2,
+      57,
+      45,
+      61,
+      19
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Melissa Lee",
+    "slug": "melissa-lee",
+    "desiredJob": "Digital Designer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Melissa is a designer with knowledge of front-end development and an interest in anything creative. She recently spent a year as a Web Designer at Freemans Grattan Holdings creating marketing assets across their brands. After graduating, Melissa plans to further her career in a similar role.",
+    "quote": "When the wind's against you\nRemember this insight\nThat's the optimal condition\nFor birds to take flight",
+    "quote_from": "Enter Shikari",
+    "image_path": "/img/students/melissal.png",
+    "links": {
+      "website": "https://meli-lee.co.uk/",
+      "linkedin": "https://www.linkedin.com/in/meli-lee/",
+      "email": "melissaleew8@gmail.com",
+      "instagram": "https://www.instagram.com/melissalee_web/"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      43,
+      27,
+      28,
+      47,
+      5,
+      71
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Matthew Lowis",
+    "slug": "matthew-lowis",
+    "desiredJob": "UX/UI Designer",
+    "degree": "BSc(Hons) Web Design",
+    "description": "Matthew is a final year Web Design student with an interest in Cyber Security and a passion for web creativity. He hopes to expand his knowledge via further study at University or by taking a step into the working world.",
+    "quote": "The greatest of all pleasures is the pleasure of learning.",
+    "quote_from": "Aristotle",
+    "image_path": "/img/students/matthew.png",
+    "links": {
+      "website": "https://selene.hud.ac.uk/u1862170/Portfolio/"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      43,
+      27,
+      5,
+      47,
+      71,
+      6
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Clayton Matangira",
+    "slug": "clayton-matangira",
+    "desiredJob": "Front-end Developer",
+    "degree": "BSc(Hons) Web Design",
+    "description": "Clayton is a final year Web Design student who spent some years in the industry before coming to study at the University of Huddersfield. He has worked within a creative agency, and freelanced on projects for various companies. He is always looking to improve, solve problems, and produce better results. Clayton is a digital designer who can take ideas from concept to wireframe to prototype to production. He is looking to combine what he has experienced in the industry with the added knowledge from University to return back to industry whilst adding more knowledge with a research masters degree in computing.",
+    "quote": "Creativity is intelligence having fun",
+    "quote_from": "Albert Einstein",
+    "image_path": "/img/students/clayton.png",
+    "links": {
+      "website": "https://clymatdesign.co.uk",
+      "facebook": "https://www.facebook.com/pg/ClymatDesignLtd",
+      "linkedin": "https://www.linkedin.com/in/clayton-matangira-b6656ab8/",
+      "youtube": "https://www.youtube.com/channel/UCagP-ftTlUr1fj5d24fGGiQ",
+      "instagram": "https://www.instagram.com/clymatdesign",
+      "email": "admin@clymatdesign.co.uk"
+    },
+    "skill_ids": [
+      26,
+      16,
+      50,
+      7,
+      29,
+      44,
+      37,
+      48,
+      38,
+      70,
+      71,
+      43,
+      5,
+      47,
+      27,
+      28,
+      22,
+      51,
+      62,
+      14
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Tom Miller",
+    "slug": "tom-miller",
+    "desiredJob": "UX Designer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Tom is a final year Web Design student with an interest in User Experience Design. He has done work experience at a graphic design company in the past. During his time at University he discovered what User Experience design was and became more and more interested and is hoping to get a career in it after he graduates.",
+    "quote": "Never regret anything that made you smile",
+    "quote_from": "Mark Twain",
+    "image_path": "/img/students/tom.png",
+    "skill_ids": [
+      26,
+      16,
+      29,
+      44,
+      71,
+      43,
+      27,
+      63
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Karl Nadin",
+    "slug": "karl-nadin",
+    "desiredJob": "UX Designer",
+    "degree": "BSc(Hons) Web Technologies",
+    "description": "Karl is a final year Web Technology student with interests in User Experience Design and Front-End Web Programming. Coming late in life he spent much of the previous twenty years in retail management and sale and team leader roles in the catering supply industry.  After almost six years outside the working world Karl is looking forward to life after University and the chance to embark on a new career.",
+    "quote": "You never fail unless you stop trying",
+    "quote_from": "Albert Einstein",
+    "image_path": "/img/students/karl.png",
+    "links": {
+      "website": "https://karlnadin.com/"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      70,
+      28,
+      71,
+      27,
+      43,
+      35,
+      47,
+      59,
+      54
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Samuel Overson",
+    "slug": "samuel-overson",
+    "desiredJob": "UX Designer",
+    "degree": "BSc(Hons) Web Design",
+    "quote": "Stocks only go up",
+    "quote_from": "Dave Portnoy",
+    "description": "Sam is a final year Web Design student who is looking to study towards a masters degree in HCI in the future.",
+    "image_path": "/img/students/samo.png",
+    "links": {
+      "email": "oversonsam@gmail.com"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      71,
+      43,
+      27,
+      35,
+      47,
+      62
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Paul Pitis",
+    "slug": "paul-pitis",
+    "desiredJob": "Full Stack Developer",
+    "degree": "BSc(Hons) Web Technologies",
+    "quote": "",
+    "quote_from": "",
+    "description": "Paul is a final year student at the University of Huddersfield with a strength and passion in both front and back-end web development. Having previous experience in working with WordPress as a web designer in a small web company in Romania, he came to university to learn and develop strong programming skills. Languages used: JavaScript, PHP, Laravel, Html/CSS, jQuery.",
+    "image_path": "/img/students/no-image.png",
+    "links": {
+      "email": "pitispaul46@gmail.com"
+    },
+    "skill_ids": [
+      26,
+      16,
+      50,
+      7,
+      29,
+      44,
+      37,
+      48,
+      38,
+      70
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Jaswinder Sagoo",
+    "slug": "jaswinder-sagoo",
+    "desiredJob": "Digital Content Creator",
+    "degree": "BSc(Hons) Web Design",
+    "quote": "Desire and imagination have the potential to position a person for greatness",
+    "quote_from": "Eric Thomas",
+    "description": "A current final year Web Design student that has a variety of interests from creating WordPress sites, UI/UX design to digital marketing, and a particular interest in video production/editing and digital effects. Jas is looking forward to completing his studies and applying his knowledge and skills in future employment.",
+    "image_path": "/img/students/jas.png",
+    "links": {
+      "email": "J.Sagoo@protonmail.com"
+    },
+    "skill_ids": [
+      26,
+      16,
+      29,
+      44,
+      37,
+      43,
+      27,
+      28,
+      71,
+      47,
+      5,
+      70
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Callum Walker-Glanville",
+    "slug": "callum-walker-glanville",
+    "desiredJob": "Visual Designer",
+    "degree": "BSc(Hons) Web Design",
+    "quote": "Design is thinking made visual",
+    "quote_from": "Saul Bass",
+    "description": "Callum is a digital designer with a passion for beautiful aesthetics. If it's not beautiful he can make it beautiful, if it's beautiful he will say \"wow that's beautiful\". He has been successfully freelancing alongside studying and is looking forward to finishing his degree and being able to focus fully on that.",
+    "image_path": "/img/students/callum.png",
+    "links": {
+      "website": "https://studiosalamander.com/",
+      "email": "callum@studiosalamander.com"
+    },
+    "skill_ids": [
+      25,
+      32,
+      10,
+      67,
+      64,
+      53,
+      36
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Michael O'Grady",
+    "slug": "michael-ogrady",
+    "desiredJob": "Course Leader",
+    "degree": "MSc Interactive Multimedia Production",
+    "description": "Michael is Course Leader for the Web courses as well as Module Leader for the Team project. He has been teaching digital media for almost two decades, starting out when multimedia meant something quite new and exciting. He is very excited and proud of his students as they visibly grow in knowledge, experience and confidence thoughout their three or four years on their respective courses. The Year End Showcase is always an exciting and worthwhile experience for the students, many of which receive invites to interview and jobs from the event.",
+    "quote": "All's well that ends well.",
+    "quote_from": "Shakespeare",
+    "image_path": "/img/students/michael.png",
+    "links": {
+      "website": "https://pure.hud.ac.uk/en/persons/michael-ogrady",
+      "linkedin": "https://www.linkedin.com/in/michaelogrady/",
+      "youtube": "https://www.youtube.com/user/MultimediaSausage/"
+    },
+    "skill_ids": [
+      26,
+      72,
+      1,
+      29,
+      44,
+      43,
+      52,
+      47,
+      5,
+      23,
+      35,
+      34,
+      15,
+      33,
+      55
+    ]
+  }
+]

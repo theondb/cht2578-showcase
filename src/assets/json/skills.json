@@ -1,0 +1,393 @@
+[
+  {
+    "id": 1,
+    "name": "ActionScript",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": 2,
+    "name": "AD",
+    "icon": "fa-windows"
+  },
+  {
+    "id": 3,
+    "name": "Adobe Creative Suite"
+  },
+  {
+    "id": 4,
+    "name": "Adobe XD",
+    "icon": "xd",
+    "custom": true
+  },
+  {
+    "id": 5,
+    "name": "After Effects",
+    "icon": "ae",
+    "custom": true
+  },
+  {
+    "id": 6,
+    "name": "Analytical Thinking",
+    "icon": "fas fa-brain"
+  },
+  {
+    "id": 7,
+    "name": "BEM",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": 8,
+    "name": "Blender",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": 9,
+    "name": "Bootstrap",
+    "icon": "fa-bootstrap"
+  },
+  {
+    "id": 10,
+    "name": "Branding",
+    "icon": "fas fa-pencil-ruler"
+  },
+  {
+    "id": 11,
+    "name": "C#",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": 12,
+    "name": "Camtasia",
+    "icon": "fas fa-camera"
+  },
+  {
+    "id": 13,
+    "name": "Computer forensic skills",
+    "icon": "fas fa-atom"
+  },
+  {
+    "id": 14,
+    "name": "Copywriting",
+    "icon": "fas fa-keyboard"
+  },
+  {
+    "id": 15,
+    "name": "Course Leadership",
+    "icon": "fas fa-users"
+  },
+  {
+    "id": 16,
+    "name": "CSS",
+    "icon": "fa-css3-alt"
+  },
+  {
+    "id": 17,
+    "name": "CSV",
+    "icon": "fas fa-file"
+  },
+  {
+    "id": 18,
+    "name": "Digital devices imaging",
+    "icon": "fas fa-image"
+  },
+  {
+    "id": 19,
+    "name": "Fast Learner",
+    "icon": "fas fa-brain"
+  },
+  {
+    "id": 20,
+    "name": "Foundation",
+    "icon": "far fa-file-code"
+  },
+  {
+    "id": 21,
+    "name": "Git",
+    "icon": "fa-git"
+  },
+  {
+    "id": 22,
+    "name": "GitHub",
+    "icon": "fa-github"
+  },
+  {
+    "id": 23,
+    "name": "Google Earth Studio",
+    "icon": "fas fa-map-signs"
+  },
+  {
+    "id": 24,
+    "name": "APIs & JS Libraries",
+    "icon": "fas fa-map-signs"
+  },
+  {
+    "id": 25,
+    "name": "Graphic design",
+    "icon": "fas fa-photo-video"
+  },
+  {
+    "id": 26,
+    "name": "HTML",
+    "icon": "fa-html5"
+  },
+  {
+    "id": 27,
+    "name": "Illustrator",
+    "icon": "ai",
+    "custom": true
+  },
+  {
+    "id": 28,
+    "name": "InDesign",
+    "icon": "id",
+    "custom": true
+  },
+  {
+    "id": 29,
+    "name": "JavaScript",
+    "icon": "fa-js-square"
+  },
+  {
+    "id": 30,
+    "name": "jQuery",
+    "icon": "fab fa-js"
+  },
+  {
+    "id": 31,
+    "name": "Laravel",
+    "icon": "fa-laravel"
+  },
+  {
+    "id": 32,
+    "name": "Logo design",
+    "icon": "fas fa-pencil-ruler"
+  },
+  {
+    "id": 33,
+    "name": "Management",
+    "icon": "fas fa-users"
+  },
+  {
+    "id": 34,
+    "name": "Module Leadership",
+    "icon": "fas fa-users"
+  },
+  {
+    "id": 35,
+    "name": "MS Office",
+    "icon": "fas fa-mail-bulk"
+  },
+  {
+    "id": 36,
+    "name": "Music production",
+    "icon": "fas fa-headphones"
+  },
+  {
+    "id": 37,
+    "name": "MySQL",
+    "icon": "fas fa-database"
+  },
+  {
+    "id": 38,
+    "name": "Node.js",
+    "icon": "fa-node-js"
+  },
+  {
+    "id": 39,
+    "name": "NPM",
+    "icon": "fa-npm"
+  },
+  {
+    "id": 40,
+    "name": "OOP",
+    "icon": "fas fa-cube"
+  },
+  {
+    "id": 41,
+    "name": "Password Cracking",
+    "icon": "fas fa-asterisk"
+  },
+  {
+    "id": 42,
+    "name": "Photography",
+    "icon": "fas fa-camera"
+  },
+  {
+    "id": 43,
+    "name": "Photoshop",
+    "icon": "ps",
+    "custom": true
+  },
+  {
+    "id": 44,
+    "name": "PHP",
+    "icon": "fa-php"
+  },
+  {
+    "id": 45,
+    "name": "Planning",
+    "icon": "fas fa-pencil-alt"
+  },
+  {
+    "id": 47,
+    "name": "Premiere Pro",
+    "icon": "pr",
+    "custom": true
+  },
+  {
+    "id": 48,
+    "name": "React",
+    "icon": "fa-react"
+  },
+  {
+    "id": 49,
+    "name": "Redhat/Centos",
+    "icon": "fa-redhat"
+  },
+  {
+    "id": 50,
+    "name": "SASS",
+    "icon": "fa-sass"
+  },
+  {
+    "id": 51,
+    "name": "SEO",
+    "icon": "fab fa-searchengin"
+  },
+  {
+    "id": 52,
+    "name": "Sigil",
+    "icon": "fas fa-book-open"
+  },
+  {
+    "id": 53,
+    "name": "Sound Design",
+    "icon": "fas fas fa-headphones-alt"
+  },
+  {
+    "id": 54,
+    "name": "Store Management (Retail)",
+    "icon": "fas fa-users"
+  },
+  {
+    "id": 55,
+    "name": "Student Support",
+    "icon": "fas fa-users"
+  },
+  {
+    "id": 56,
+    "name": "Substance Designer",
+    "icon": "fas fa-cubes"
+  },
+  {
+    "id": 57,
+    "name": "Data Management",
+    "icon": "fas fa-database"
+  },
+  {
+    "id": 58,
+    "name": "Tailwind",
+    "icon": "far fa-file-code"
+  },
+  {
+    "id": 59,
+    "name": "Team Leadership (Retail/Sales)",
+    "icon": "fas fa-user-friends"
+  },
+  {
+    "id": 60,
+    "name": "Team Oriented",
+    "icon": "fas fa-user-friends"
+  },
+  {
+    "id": 61,
+    "name": "Team Worker",
+    "icon": "fas fa-user-friends"
+  },
+  {
+    "id": 62,
+    "name": "User Research",
+    "icon": "fas fa-users"
+  },
+  {
+    "id": 63,
+    "name": "Vegas",
+    "icon": "fas fa-photo-video"
+  },
+  {
+    "id": 64,
+    "name": "Video editing and effects",
+    "icon": "fas fa-film"
+  },
+  {
+    "id": 65,
+    "name": "Videography",
+    "icon": "fas fa-video"
+  },
+  {
+    "id": 66,
+    "name": "Vue",
+    "icon": "fa-vuejs"
+  },
+  {
+    "id": 67,
+    "name": "Web design",
+    "icon": "fas fa-pencil-ruler"
+  },
+  {
+    "id": 68,
+    "name": "Windows OS",
+    "icon": "fa-windows"
+  },
+  {
+    "id": 69,
+    "name": "Windows Server",
+    "icon": "fa-windows"
+  },
+  {
+    "id": 70,
+    "name": "WordPress",
+    "icon": "fa-wordpress"
+  },
+  {
+    "id": 71,
+    "name": "XD",
+    "icon": "xd",
+    "custom": true
+  },
+  {
+    "id": 72,
+    "name": "XML",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": 73,
+    "name": "Zend/Laminas Framework",
+    "icon": "fas fa-code"
+  },
+  {
+    "id": 74,
+    "name": "MongoDB",
+    "icon": "fas fa-database"
+  },
+  {
+    "id": 75,
+    "name": "Redux",
+    "icon": "fas fa-toolbox"
+  },
+  {
+    "id": 76,
+    "name": "Express",
+    "icon": "fas fa-server"
+  },
+  {
+    "id": 77,
+    "name": "Lottie",
+    "icon": "fab fa-airbnb"
+  },
+  {
+    "id": 78,
+    "name": "Livewire",
+    "icon": "fa-laravel"
+  }
+]
